@@ -2,3 +2,17 @@
     font-family: Courier New;
     /* background-color:blue; */
 }
+h1,
+h3{
+    color:#b92b27;
+}
+#login{
+    background-color:white;
+}
+#singup {
+    background-color:#b92b27;
+    color:white;
+}
+.upvote{
+    background-color:green;
+}
